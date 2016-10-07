@@ -35,7 +35,7 @@ import javax.swing.table.DefaultTableModel;
 public class VentanaConsultas extends javax.swing.JInternalFrame {
 
     
-<<<<<<< HEAD
+
     /** Creates new form VentanaPrestamos */
     public VentanaConsultas() {
     	
@@ -48,9 +48,7 @@ public class VentanaConsultas extends javax.swing.JInternalFrame {
     }
 
 
-=======
-   
->>>>>>> branch 'master' of https://github.com/caferrerb/bibliotestgit.git
+
     /** This method is called from within the constructor to
      * initialize the form.
      * WARNING: Do NOT modify this code. The content of this method is
