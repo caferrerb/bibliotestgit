@@ -4,7 +4,11 @@ public class PrestamoBO {
 	
 	
   
-  
+  public PrestamoBO(int a){
+  	this.a=a;
+  }
+	
+	
   private int a;
   
   public PrestamoBO() {
