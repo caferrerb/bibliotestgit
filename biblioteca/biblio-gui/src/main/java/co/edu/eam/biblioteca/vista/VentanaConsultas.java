@@ -35,17 +35,7 @@ import javax.swing.table.DefaultTableModel;
 public class VentanaConsultas extends javax.swing.JInternalFrame {
 
     
-    /** Creates new form VentanaPrestamos */
-    public VentanaConsultas() {
-    	
-    	initComponents();
-        setVisible(true);
-        setResizable(false);
-        setClosable(true);
-        setMaximizable(false);
-    }
-
-
+   
     /** This method is called from within the constructor to
      * initialize the form.
      * WARNING: Do NOT modify this code. The content of this method is
