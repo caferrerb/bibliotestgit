@@ -14,8 +14,21 @@ public class Autor implements Serializable {
 	
 	private String  nombre;
 	
+	private String pais;
+	
 	public Autor() {
 	}
+	
+	
+
+	public Autor(String codigo, String nombre, String pais) {
+		super();
+		this.codigo = codigo;
+		this.nombre = nombre;
+		this.pais = pais;
+	}
+
+
 
 	/**
 	 * @return the codigo
