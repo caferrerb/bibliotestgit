@@ -5,6 +5,9 @@ import java.io.Serializable;
 import javax.persistence.Entity;
 import javax.persistence.Id;
 import javax.persistence.Table;
+/**
+Entidad del autor.
+**/
 @Table(name="autor")
 @Entity
 public class Autor implements Serializable {
