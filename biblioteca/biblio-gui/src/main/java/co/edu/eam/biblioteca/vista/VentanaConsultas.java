@@ -43,6 +43,7 @@ public class VentanaConsultas extends javax.swing.JInternalFrame {
         setResizable(false);
         setClosable(true);
         setMaximizable(false);
+        setVisible(true);
     }
 
 
